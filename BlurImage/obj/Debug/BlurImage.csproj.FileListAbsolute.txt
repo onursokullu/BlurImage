@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\BlurImage\BlurImage\bin\Debug\BlurImage.exe.config
+C:\Users\ASUS\Documents\BlurImage\BlurImage\bin\Debug\BlurImage.exe
+C:\Users\ASUS\Documents\BlurImage\BlurImage\bin\Debug\BlurImage.pdb
+C:\Users\ASUS\Documents\BlurImage\BlurImage\obj\Debug\BlurImage.Form1.resources
+C:\Users\ASUS\Documents\BlurImage\BlurImage\obj\Debug\BlurImage.Properties.Resources.resources
+C:\Users\ASUS\Documents\BlurImage\BlurImage\obj\Debug\BlurImage.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\BlurImage\BlurImage\obj\Debug\BlurImage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\BlurImage\BlurImage\obj\Debug\BlurImage.exe
+C:\Users\ASUS\Documents\BlurImage\BlurImage\obj\Debug\BlurImage.pdb
