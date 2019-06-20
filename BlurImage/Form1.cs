@@ -202,5 +202,15 @@ namespace BlurImage
             rect.Height = Math.Abs(LocationXY.Y - LocationX1Y1.Y);
             return rect;
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

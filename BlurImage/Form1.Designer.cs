@@ -36,6 +36,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.MakeItBlur = new System.Windows.Forms.Button();
             this.trackBar1 = new System.Windows.Forms.TrackBar();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxBig)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxSmall)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
@@ -123,11 +124,23 @@
             this.trackBar1.TabIndex = 14;
             this.trackBar1.Scroll += new System.EventHandler(this.updateBlur);
             // 
+            // label2
+            // 
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label2.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.label2.Location = new System.Drawing.Point(23, 306);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(327, 143);
+            this.label2.TabIndex = 15;
+            this.label2.Text = "1-) Add the picture that you want to blur\r\n2-)Choice the area that you want to bl" +
+    "ur\r\n3-)Click the blur button\r\n";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(691, 461);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.trackBar1);
             this.Controls.Add(this.MakeItBlur);
             this.Controls.Add(this.label5);
@@ -157,6 +170,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button MakeItBlur;
         private System.Windows.Forms.TrackBar trackBar1;
+        private System.Windows.Forms.Label label2;
     }
 }
 
